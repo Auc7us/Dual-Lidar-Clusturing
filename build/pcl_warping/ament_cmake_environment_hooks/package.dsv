@@ -1,0 +1,4 @@
+source;share/pcl_warping/local_setup.bash
+source;share/pcl_warping/local_setup.dsv
+source;share/pcl_warping/local_setup.sh
+source;share/pcl_warping/local_setup.zsh

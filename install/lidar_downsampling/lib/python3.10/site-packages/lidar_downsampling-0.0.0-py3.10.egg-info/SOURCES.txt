@@ -1,0 +1,16 @@
+package.xml
+setup.cfg
+setup.py
+../build/lidar_downsampling/lidar_downsampling.egg-info/PKG-INFO
+../build/lidar_downsampling/lidar_downsampling.egg-info/SOURCES.txt
+../build/lidar_downsampling/lidar_downsampling.egg-info/dependency_links.txt
+../build/lidar_downsampling/lidar_downsampling.egg-info/entry_points.txt
+../build/lidar_downsampling/lidar_downsampling.egg-info/requires.txt
+../build/lidar_downsampling/lidar_downsampling.egg-info/top_level.txt
+../build/lidar_downsampling/lidar_downsampling.egg-info/zip-safe
+lidar_downsampling/__init__.py
+lidar_downsampling/lidar_downsampling_node.py
+resource/lidar_downsampling
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py

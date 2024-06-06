@@ -1,0 +1,10 @@
+[01m[K/home/flash/ros2_workspace/src/pcl_warping/src/lidar_warping_node.cpp:[m[K In constructor ‘[01m[KLidarWarpingNode::LidarWarpingNode()[m[K’:
+[01m[K/home/flash/ros2_workspace/src/pcl_warping/src/lidar_warping_node.cpp:22:5:[m[K [01;31m[Kerror: [m[Kexpected ‘[01m[K;[m[K’ before ‘[01m[KL4[m[K’
+   22 |     [01;31m[KL4[m[K << -1.34926085,  3.71491671,  0.03323364;
+      |     [01;31m[K^~[m[K
+[01m[K/home/flash/ros2_workspace/src/pcl_warping/src/lidar_warping_node.cpp:27:23:[m[K [01;31m[Kerror: [m[Kexpected ‘[01m[K;[m[K’ before numeric constant
+   27 |     R4 << 1.36977177  [01;31m[K3.68768468[m[K -0.52638098;
+      |                       [01;31m[K^~~~~~~~~~[m[K
+gmake[2]: *** [CMakeFiles/lidar_warping_node.dir/build.make:76: CMakeFiles/lidar_warping_node.dir/src/lidar_warping_node.cpp.o] Error 1
+gmake[1]: *** [CMakeFiles/Makefile2:137: CMakeFiles/lidar_warping_node.dir/all] Error 2
+gmake: *** [Makefile:146: all] Error 2
