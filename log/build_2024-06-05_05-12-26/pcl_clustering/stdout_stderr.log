@@ -1,9 +1,0 @@
-[35m[1mConsolidate compiler generated dependencies of target clustering_node[0m
-[ 50%] [32mBuilding CXX object CMakeFiles/clustering_node.dir/src/clustering_node.cpp.o[0m
-[01m[K/home/flash/ros2_workspace/src/pcl_clustering/src/clustering_node.cpp:3:10:[m[K [01;31m[Kfatal error: [m[Kvisualization_msgs/msg/marker_array.hpp: No such file or directory
-    3 | #include [01;31m[K<visualization_msgs/msg/marker_array.hpp>[m[K
-      |          [01;31m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
-compilation terminated.
-gmake[2]: *** [CMakeFiles/clustering_node.dir/build.make:76: CMakeFiles/clustering_node.dir/src/clustering_node.cpp.o] Error 1
-gmake[1]: *** [CMakeFiles/Makefile2:137: CMakeFiles/clustering_node.dir/all] Error 2
-gmake: *** [Makefile:146: all] Error 2

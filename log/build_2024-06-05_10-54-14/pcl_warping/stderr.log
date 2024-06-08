@@ -1,4 +1,0 @@
-In file included from [01m[K/home/flash/ros2_workspace/src/pcl_warping/src/lidar_warping_node.cpp:7[m[K:
-[01m[K/usr/include/pcl-1.12/pcl/io/io.h:41:13:[m[K [01;35m[Kwarning: [m[KThis header is deprecated. 
-   41 | PCL_DEPRECAT[01;35m[KED_HEADER(1, 15, "Please incl[m[Kude pcl/common/io.h directly.")
-      |             [01;35m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
