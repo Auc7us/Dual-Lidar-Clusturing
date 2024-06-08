@@ -1,6 +1,0 @@
-source;share/lidar_downsampling/hook/pythonpath.ps1
-source;share/lidar_downsampling/hook/pythonpath.dsv
-source;share/lidar_downsampling/hook/pythonpath.sh
-source;share/lidar_downsampling/hook/ament_prefix_path.ps1
-source;share/lidar_downsampling/hook/ament_prefix_path.dsv
-source;share/lidar_downsampling/hook/ament_prefix_path.sh
