@@ -1,3 +1,0 @@
-[console_scripts]
-lidar_downsampling_node = lidar_downsampling.lidar_downsampling_node:main
-
